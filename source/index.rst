@@ -24,7 +24,7 @@ This guide is maintained on `GitHub`_ by the `Python Packaging Authority`_. We
 happily accept any :doc:`contributions and feedback <contribute>`. 😊
 
 .. _GitHub: https://github.com/pypa/python-packaging-user-guide
-.. _Python Packaging Authority: https://pypa.io
+.. _Python Packaging Authority: https://www.pypa.io
 
 .. note:: Looking for guidance on migrating from legacy PyPI to :term:`pypi.org`?
    Please see :doc:`guides/migrating-to-pypi-org`.
